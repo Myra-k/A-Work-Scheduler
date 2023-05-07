@@ -9,9 +9,11 @@ var now = dayjs().format('DD,MMMM,YYYY');
 $('#currentDay').text(now);
 console.log(now)
 
-//
+//added .ready so it will only run onces its ready
 
 $(document).ready(function () {
+
+//below is the save button and i am adding local storage
 
 
   $('.saveButton').on('click', function () {
@@ -24,6 +26,8 @@ $(document).ready(function () {
   
   });
 });
+
+//below is for the color coded blocks for past,present and future
 
   function hours() {
 
@@ -48,6 +52,8 @@ $(document).ready(function () {
 hours();
 
 setInterval(hours, 15000);
+
+// below are the event listeners
 
 $('#hour-9 .description').val(localStorage.getItem('hour-9'));
 $('#hour-10 .description').val(localStorage.getItem('hour-10'));

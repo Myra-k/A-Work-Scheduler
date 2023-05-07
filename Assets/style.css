@@ -61,9 +61,14 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
+
+/* below is the h1 heading*/
+
 .lead {
   color: burlywood;
 }
+
+/* below is the sub heading*/
 
 .display-3 {
   color: burlywood;
