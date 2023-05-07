@@ -9,7 +9,7 @@ This website is a schedule for work, it includes the expected buisness hours 9-5
 ## Deployed page
 
 
-![Deployed page screenshot](./Assets/Screenshot%202023-05-07%20at%2018.47.10.png)
+![Deployed page screenshot](./Assets/Screenshot%202023-05-07%20at%2018.56.43.png)
 
 # Installation
 
@@ -29,7 +29,7 @@ To use this webpage, you can click on any block you would like and then inout an
 
 ## Review
 
-* URL Of Deployed Application ()
+* URL Of Deployed Application (https://myra-k.github.io/A-Work-Scheduler/)
 
 * URL Of Github Repository (https://github.com/Myra-k/A-Work-Scheduler.git)
 
