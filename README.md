@@ -9,7 +9,7 @@ This website is a schedule for work, it includes the expected buisness hours 9-5
 ## Deployed page
 
 
-![Deployed page screenshot]
+![Deployed page screenshot](./Assets/Screenshot%202023-05-07%20at%2018.47.10.png)
 
 # Installation
 
