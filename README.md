@@ -31,8 +31,9 @@ To use this webpage, you can click on any block you would like and then inout an
 
 * URL Of Deployed Application ()
 
-* URL Of Github Repository ()
+* URL Of Github Repository (https://github.com/Myra-k/A-Work-Scheduler.git)
 
-## Licence
+
+## Licence
 
 N/A
