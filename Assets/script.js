@@ -1,6 +1,3 @@
-// Wrap all code that interacts with the DOM in a call to jQuery to ensure that
-// the code isn't run until the browser has finished rendering all the elements
-// in the html.
 
 
 // this shows the current day in the header using dayjs
@@ -9,7 +6,8 @@ var now = dayjs().format('DD,MMMM,YYYY');
 $('#currentDay').text(now);
 console.log(now)
 
-//added .ready so it will only run onces its ready
+//added .ready so the code isn't run until the browser has finished rendering all the elements
+// in the html.
 
 $(document).ready(function () {
 
